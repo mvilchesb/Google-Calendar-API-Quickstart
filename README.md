@@ -9,18 +9,18 @@ Implementación de la API de Google Calendar en JavaScript.  [Link de referencia
 
 Uso:
 -
-1.  Luego de haber clonado o descargado el proyecto, debe ingresar a la carpeta "calendar" mediante la consola de su sistema operativo (donde está almacenado el archivo "index.html").
+1. Clona o descarga el proyecto, abre el archivo "index.html" y reemplaza las variables con la información de tu calendario (ver link de referencia).
+		```javascript
+		var CLIENT_ID = '<YOUR_CLIENT_ID>';
+		var API_KEY = '<YOUR_API_KEY>';
+		```
 
-	`$ cd Desktop/calendar`
+2.  Luego, crea una carpeta, en mi caso "calendar" y agrega el archivo "index.html". Ingresa a la carpeta creada mediante la consola de tu sistema operativo con el comando "cd".
 
-2. Levanta el servidor web en python con el siguiente comando.
+		`$ cd Desktop/calendar`
 
-	`$ py -m http.server 8000`
+3. Para finalizar, levanta el servidor web en python con el comando "py" o "python".
 
-3. Reemplaza las variables con la información de tu calendario.
-	```javascript
-	var CLIENT_ID = '<YOUR_CLIENT_ID>';
-	var API_KEY = '<YOUR_API_KEY>';
-	```
+		`$ py -m http.server 8000`
 
 4. ¡Disfruta! :metal: 
