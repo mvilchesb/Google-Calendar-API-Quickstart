@@ -1,14 +1,15 @@
 Google Calendar API Quickstart - JS
 -
----
 
 Implementación de la API de Google Calendar en JavaScript.  [Link de referencia](https://developers.google.com/calendar/quickstart/js "Link de referencia")
 
 ![index](https://i.imgur.com/FaE4mUM.png)
 
+---
+
 Uso:
 -
-1.  Luego de haber clonado o descargado el proyecto, debe ingresar a la carpeta "calendar" mediante la consola de su sistema operativo.
+1.  Luego de haber clonado o descargado el proyecto, debe ingresar a la carpeta "calendar" mediante la consola de su sistema operativo (donde está almacenado el archivo "index.html").
 
 	`$ cd Desktop/calendar`
 
