@@ -15,7 +15,7 @@ Uso:
 	var API_KEY = '<YOUR_API_KEY>';
 	```
 
-2.  Luego, crea una carpeta, en mi caso "calendar" y agrega el archivo "index.html". Ingresa a la carpeta creada mediante la consola de tu sistema operativo con el comando "cd".
+2.  Luego, crea una carpeta, en mi caso "calendar" y agrega el archivo "index.html". Ingresa a la carpeta creada mediante la consola de tu sistema operativo, en mi caso windows.
 
 	`$ cd Desktop/calendar`
 
